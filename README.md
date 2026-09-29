@@ -34,8 +34,8 @@ BlindHire is a decentralized application (dApp) engineered on the **Midnight Net
 ## Official Submission Links
 
 - **Live Application (Vercel):** [https://blind-hire-delta.vercel.app/](https://blind-hire-delta.vercel.app/)
-- **Deployed Contract (Midnight Preprod):** [Coming Soon]()
-- **Demo Video Presentation:** [Watch on Google Drive]()
+- **Deployed Contract (Midnight Preprod):** [12a84b9f390021c60bb54209fae017290a3c2b184019a9f24bca81903e198421](https://preprod.midnightexplorer.com/contracts/12a84b9f390021c60bb54209fae017290a3c2b184019a9f24bca81903e198421)
+- **Demo Video Presentation:** [Watch on Google Drive](https://drive.google.com/file/d/13BzZViVTI_MCVEuX4FiYmkuNff899vda/view?usp=sharing)
 - **Public Brand Presence (X Profile):** [https://x.com/blindhire11](https://x.com/blindhire11)
 
 ---
@@ -235,7 +235,7 @@ This repository fulfills the strict progression requirements of the "New Moon to
 ### Level 2: Frontend Integration
 - **Objective:** Develop a robust frontend interface and establish wallet connectivity.
 - **Status:** Complete. The application successfully interfaces with Lace and 1AM wallets via the Midnight DApp Connector API.
-- **Deployed Contract Address (Preprod):** [Coming Soon]()
+- **Deployed Contract Address (Preprod):** [12a84b9f390021c60bb54209fae017290a3c2b184019a9f24bca81903e198421](https://preprod.midnightexplorer.com/contracts/12a84b9f390021c60bb54209fae017290a3c2b184019a9f24bca81903e198421)
 
 ### Level 3: Production-Grade dApp
 - **Objective:** Implement automated testing, Continuous Integration (CI/CD), and a polished user interface.
@@ -245,8 +245,8 @@ This repository fulfills the strict progression requirements of the "New Moon to
 - **Objective:** Deploy the frontend to a production CDN, finalize documentation, and establish a public brand presence.
 - **Status:** Complete.
   - **Live Application:** [https://blind-hire-delta.vercel.app/](https://blind-hire-delta.vercel.app/)
-  - **Deployed Contract (Preprod):** [Coming Soon]()
-  - **Demo Video Presentation:** [Watch on Google Drive]()
+  - **Deployed Contract (Preprod):** [12a84b9f390021c60bb54209fae017290a3c2b184019a9f24bca81903e198421](https://preprod.midnightexplorer.com/contracts/12a84b9f390021c60bb54209fae017290a3c2b184019a9f24bca81903e198421)
+  - **Demo Video Presentation:** [Watch on Google Drive](https://drive.google.com/file/d/13BzZViVTI_MCVEuX4FiYmkuNff899vda/view?usp=sharing)
   - **Public Brand Presence (X Profile):** [https://x.com/blindhire11](https://x.com/blindhire11)
 
 ---

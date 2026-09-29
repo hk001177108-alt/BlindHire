@@ -91,7 +91,7 @@ export const storage = {
     return (
       localStorage.getItem(KEYS.DEPLOYED_CONTRACT_ADDRESS) ||
       import.meta.env.VITE_PREPROD_CONTRACT_ADDRESS ||
-      ''
+      '12a84b9f390021c60bb54209fae017290a3c2b184019a9f24bca81903e198421'
     );
   },
 
